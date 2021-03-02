@@ -1,0 +1,7 @@
+C:\Users\VENKY\source\repos\Bak\Bak\obj\Debug\Bak.csprojAssemblyReference.cache
+C:\Users\VENKY\source\repos\Bak\Bak\obj\Debug\Bak.csproj.CoreCompileInputs.cache
+C:\Users\VENKY\source\repos\Bak\Bak\bin\Debug\Bak.exe.config
+C:\Users\VENKY\source\repos\Bak\Bak\bin\Debug\Bak.exe
+C:\Users\VENKY\source\repos\Bak\Bak\bin\Debug\Bak.pdb
+C:\Users\VENKY\source\repos\Bak\Bak\obj\Debug\Bak.exe
+C:\Users\VENKY\source\repos\Bak\Bak\obj\Debug\Bak.pdb
